@@ -3,3 +3,4 @@ coucou ceci est le readme 1 :
 - commentaire B  
 - commentaire C
 
++ detail ajout !
